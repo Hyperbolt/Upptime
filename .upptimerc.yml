@@ -6,13 +6,13 @@ sites:
   - name: Website
     url: https://hyperbolt.xyz
   - name: API
-    url: https://gosogle.com
+    url: https://google.com
   - name: Error Handler
-    url: https://gsoogle.com
+    url: https://google.com
   - name: Logger
-    url: https://gsoogle.com
+    url: https://google.com
   - name: Discord Bot
-    url: https://gosogle.com
+    url: https://google.com
 
 assignees: # Users to assign downtime issues (optional)
   - Lukeos11
