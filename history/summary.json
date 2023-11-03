@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-03": 48,
+      "2023-11-03": 167,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1160
@@ -45,9 +45,9 @@
     "url": "https://gsoogle.com",
     "icon": "https://icons.duckduckgo.com/ip3/gsoogle.com.ico",
     "slug": "error-handler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.62%",
+    "uptimeDay": "99.61%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
@@ -57,6 +57,7 @@
     "timeMonth": 1721,
     "timeYear": 1721,
     "dailyMinutesDown": {
+      "2023-11-03": 0,
       "2023-11-02": 5
     }
   },
